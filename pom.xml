@@ -99,8 +99,10 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<finalName>IdentityMicroService</finalName>
+				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>IdentityMicroService</finalName>
 	</build>
 </project>
