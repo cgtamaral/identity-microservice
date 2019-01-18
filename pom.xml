@@ -101,7 +101,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>IdentityMicroService</finalName>
 	</build>
-
-
 </project>
