@@ -16,7 +16,7 @@ Este microsserviço foi elaborado como parte do trabalho de conclusão da discip
 
 #### Deploy Heroku
 
-A aplicação encontra-se atualmente no ambiente do Heroku, para acessar os serviços disponiveis acessar a aplicação através do link 
+A aplicação encontra-se disponivel no ambiente do Heroku, para visualizar os serviços existentes acessar a aplicação através do link 
 (https://identity-microservice.herokuapp.com/swagger-ui.html)
 
 
