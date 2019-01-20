@@ -5,8 +5,8 @@ Este microsserviço foi elaborado como parte do trabalho de conclusão da discip
 
 #### Pré-Requisitos
 - Eclipse Photon ou superior com Spring Boot Tools;
-- Java JDK 8;
-- Maven;
+- Java JDK 8 ou superior;
+- Apache Maven versão 3.6.0;
 
 #### Instalação e execução da aplicação em ambiente local
 - Clonar o projeto em um diretório desejado;
