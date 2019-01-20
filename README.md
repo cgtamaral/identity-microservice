@@ -11,7 +11,7 @@ Este microsserviço foi elaborado como parte do trabalho de conclusão da discip
 #### Instalação e execução da aplicação em ambiente local
 - Clonar o projeto em um diretório desejado;
 - Importar o código fonte no Eclipse, selecionar a opção **Existing Maven Projects**; 
-- Editar o arquivo application.properties e alterar o valor do parametro **spring.profiles.active** para **dev**;
+- Editar o arquivo **application.properties** e alterar o valor do parametro **spring.profiles.active** para **dev**;
 - Na aba **Project Explorer**, clicar no projeto com o botão direito do mouse e selecionar a opção run ou debug, **Spring Boot Applications**;
 
 #### Deploy Heroku
